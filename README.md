@@ -2,24 +2,24 @@
 
 #### YARN of SparkTorch example
 <p align="center">
-    <img src="./images/sparkTorch.png", width="360">
+    <img src="./images/sparkTorch.png", width="800">
     <br>
-    <sup>Testing the 3D Reconstruction Module of OpenPose</sup>
+    <sup>Processing SparkTorch example on YARN</sup>
 </p>
 
 #### HDFS of SparkTorch example
 <p align="center">
-    <img src="./images/HDFS_TORCH.png", width="360">
+    <img src="./images/HDFS_TORCH.png", width="800">
     <br>
-    <sup>Testing the 3D Reconstruction Module of OpenPose</sup>
+    <sup>Saving output on HDFS Cluster</sup>
 </p>
 
 
 #### Another example for Facebook prophet Time series prediction for sales data 
 <p align="center">
-    <img src="./images/HDFS_Sales_data.png", width="360">
+    <img src="./images/HDFS_Sales_data.png", width="800">
     <br>
-    <sup>Testing the 3D Reconstruction Module of OpenPose</sup>
+    <sup>Input data on HDFS cluster</sup>
 </p>
 
 #### References
